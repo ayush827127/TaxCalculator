@@ -2,7 +2,7 @@
 
 This is a simple web application built to calculate taxes based on user input. It allows users to input their gross annual income, extra income, age group, and applicable deductions to calculate the tax amount.
 
-![Tax Calculator Screenshot](screenshot.png)
+![Tax Calculator Screenshot](https://raw.githubusercontent.com/ayush827127/TaxCalculator/main/chrome_pj0ZrhoYiz.png)
 
 ## Features
 
